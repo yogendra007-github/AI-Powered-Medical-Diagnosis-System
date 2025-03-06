@@ -1,1 +1,2 @@
 # AI-Powered-Medical-Diagnosis-System
+This AI-powered medical diagnosis system is a multi-disease prediction application built using Streamlit and machine learning models. It can predict the likelihood of diabetes, heart disease, and Parkinson’s disease based on user input and also features an AI-driven medical advice chatbot. The system uses pre-trained models for disease prediction and a text-generation model for medical guidance, providing an interactive and user-friendly interface for early diagnosis and health-related queries.
